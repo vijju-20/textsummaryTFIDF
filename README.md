@@ -32,3 +32,6 @@
 #calculate the average sentence score 
 #if the sentence score is greater than average score then include the sentence else skip it
 #print the summarized output
+
+#output
+[textsummary.txt](https://github.com/user-attachments/files/19895002/textsummary.txt)
