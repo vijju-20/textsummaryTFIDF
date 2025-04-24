@@ -1,1 +1,1 @@
-# textsummaryTFIDF
+#  TEXT SUMMARIZATION TOOL
